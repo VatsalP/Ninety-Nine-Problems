@@ -1,0 +1,3 @@
+(test
+ (name first_test)
+ (libraries problems ounit2 ))

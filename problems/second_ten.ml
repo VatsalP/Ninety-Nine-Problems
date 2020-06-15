@@ -1,3 +1,5 @@
+(** Functions for the second set of ten problems *)
+
 type 'a rle = One of 'a | Many of int * 'a
 
 (** [encode'] returns the run-length encoding of the passed list using the type

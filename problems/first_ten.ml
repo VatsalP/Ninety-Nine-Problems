@@ -1,3 +1,5 @@
+(** Functions for the first ten problems *)
+
 (** [last] returns the last element of a list *)
 let rec last = function [] -> None | [ x ] -> Some x | _ :: lst -> last lst
 

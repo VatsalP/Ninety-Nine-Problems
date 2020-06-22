@@ -1,4 +1,5 @@
 (lang dune 2.5)
 
-(name "problems")
-(version "0.2")
+(package 
+ (name problems)
+ (synopsis "Solutions for ninety-nine problems in OCaml"))
